@@ -47,7 +47,7 @@ backend/
 
 ### **1. Clone the repository:**
 ```sh
-git clone https://github.com/your-repo/fullstack-assignment.git
+git clone https://github.com/chandan1508/IntelliSQR
 cd backend
 ```
 
